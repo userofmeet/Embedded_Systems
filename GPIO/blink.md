@@ -18,5 +18,6 @@ int main()
 ```
 
 ## GPIOC Peripheral
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a9f2502-348a-46d8-a337-0e1168f7b952" />
 <img width="507" height="525" alt="image" src="https://github.com/user-attachments/assets/34bc1467-473d-450b-b591-cc3bb934bead" />
 <img width="507" height="525" alt="image" src="https://github.com/user-attachments/assets/02e2140c-9915-45f7-9536-09b9f4e0aac8" />
