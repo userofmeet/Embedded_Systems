@@ -45,8 +45,6 @@ void I2C_Stop(void)
     I2C0CONCLR = (1 << 3);   // Clear SI
 }
  
-
-
 int main(void)
 {
     I2C_Init();
